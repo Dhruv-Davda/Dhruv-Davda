@@ -14,8 +14,9 @@
 ---
 
 ### 🚀 What I'm shipping
-
+<!--
 - **[Stradix](https://stradix.site)** — autonomous CI agent that diagnoses, fixes, verifies and merges broken builds in ~90s. *(TypeScript · React · Three.js · GitHub Actions API · Claude)*
+-->
 - **[TradeX](https://github.com/Dhruv-Davda/TradeX)** — TypeScript-first trade management for gold/silver merchants — inventory, P&L, real-time analytics on a React + Supabase stack
 - **[Lost & Found](#)** — semantic search on text + image embeddings (CNN/CLIP, cosine similarity), with optimized vector retrieval
 
