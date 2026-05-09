@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./profile-banner.svg" alt="Dhruv Davda — Cracked Developer" />
-</p>
+</p> -->
 
 
 <h1>Hey, I'm Dhruv 👋🏻 </h1>
