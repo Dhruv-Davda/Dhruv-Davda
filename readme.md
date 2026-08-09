@@ -6,7 +6,7 @@
 <h1>Hey, I'm Dhruv 👋🏻 </h1>
 
 <p>
-  Second-year CS @ <strong>Scaler × BITS Pilani</strong>. SDE Intern @ <strong>Scaler AI Labs</strong> —
+  Third-year CS @ <strong>Scaler × BITS Pilani</strong>. SDE Intern @ <strong>Scaler AI Labs</strong> —
   building RL training environments used by <em>OpenAI, xAI, Meta and Anthropic</em>.
   I ship at the intersection of <strong>agents, dev tooling, and craft</strong>.
 </p>
